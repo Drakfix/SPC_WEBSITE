@@ -1,458 +1,136 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
-	<loc>https://picturelock.com.mx/home-eng.html</loc>
-	<lastmod>2023-09-27</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/IMG-20230609-WA0006.jpg</image:loc>
-	<image:title>ERNIE</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/IMG-20230609-WA0006.webp</image:loc>
-	<image:title>ERNIE</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/LOGO_MANOSANTA_W.png</image:loc>
-	<image:title>LOGO_MANOSANTA_W</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/LOGO_MANOSANTA_W.webp</image:loc>
-	<image:title>LOGO_MANOSANTA_W</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/Picture%20Lock_white.png</image:loc>
-	<image:title>page export</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/Picture%20Lock_white.webp</image:loc>
-	<image:title>page export</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/JEZZABEL.png</image:loc>
-	<image:title>Infeccion</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/JEZZABEL.webp</image:loc>
-	<image:title>Infeccion</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/3964_mate_cartel.jpeg</image:loc>
-	<image:title>Paraíso Perdido</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/3964_mate_cartel.webp</image:loc>
-	<image:title>Paraíso Perdido</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/INFECCION%20POSTER%20COMP.jpg</image:loc>
-	<image:title>Jinetes del Tiempo</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/INFECCION%20POSTER%20COMP.webp</image:loc>
-	<image:title>Jinetes del Tiempo</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/sabina_sombra-784182382-large.jpeg</image:loc>
-	<image:title>Sabina Sombra</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/sabina_sombra-784182382-large.webp</image:loc>
-	<image:title>Sabina Sombra</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/FRUIT%20OF%20LABOR.jpg</image:loc>
-	<image:title>Fruit of Their Labor</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/FRUIT%20OF%20LABOR.webp</image:loc>
-	<image:title>Fruit of Their Labor</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/DRIVER%20KIDS.jpg</image:loc>
-	<image:title>Tiempos Futuros</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/DRIVER%20KIDS.webp</image:loc>
-	<image:title>Tiempos Futuros</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/Donde%20duermen%20los%20pajaros.jpg</image:loc>
-	<image:title>Donde Duermen Los Pájaros</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/Donde%20duermen%20los%20pajaros.webp</image:loc>
-	<image:title>Donde Duermen Los Pájaros</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/Tigre.jpg</image:loc>
-	<image:title>Tigre Tigre</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/Tigre.webp</image:loc>
-	<image:title>Tigre Tigre</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/A%20love%20song.jpg</image:loc>
-	<image:title>A Love Song</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/A%20love%20song.webp</image:loc>
-	<image:title>A Love Song</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/Hermanos%20siblings.jpg</image:loc>
-	<image:title>Hermanos / Siblings</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/Hermanos%20siblings.webp</image:loc>
-	<image:title>Hermanos / Siblings</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/Una%20great%20movie.jpg</image:loc>
-	<image:title>Una Great Movie</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/Una%20great%20movie.webp</image:loc>
-	<image:title>Una Great Movie</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/Tiempos%20futuros.jpg</image:loc>
-	<image:title>Jezabel</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/Tiempos%20futuros.webp</image:loc>
-	<image:title>Jezabel</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
-	</image:image>
-</url>
-<url>
-	<loc>https://picturelock.com.mx</loc>
+	<loc>https://www.schaefferpostcreative.com</loc>
 	<lastmod>2023-09-27</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
-	<image:loc>https://picturelock.com.mx/img/Picture%20Lock_white.png</image:loc>
-	<image:title>Picture Lock_white</image:title>
+	<image:loc>https://www.schaefferpostcreative.com/img/IMG-20230609-WA0006.jpg</image:loc>
+	<image:title>ERNIE</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://picturelock.com.mx/img/Picture%20Lock_white.webp</image:loc>
-	<image:title>Picture Lock_white</image:title>
+	<image:loc>https://www.schaefferpostcreative.com/img/IMG-20230609-WA0006.webp</image:loc>
+	<image:title>ERNIE</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://picturelock.com.mx/img/</image:loc>
+	<image:loc>https://www.schaefferpostcreative.com/img/LOGO_MANOSANTA_W.png</image:loc>
+	<image:title>LOGO_MANOSANTA_W</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.schaefferpostcreative.com/img/LOGO_MANOSANTA_W.webp</image:loc>
+	<image:title>LOGO_MANOSANTA_W</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.schaefferpostcreative.com/img/Picture%20Lock_white.png</image:loc>
+	<image:title>page export</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.schaefferpostcreative.com/img/Picture%20Lock_white.webp</image:loc>
+	<image:title>page export</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.schaefferpostcreative.com/img/A%20love%20song.jpg</image:loc>
+	<image:title>Infeccion</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.schaefferpostcreative.com/img/A%20love%20song.webp</image:loc>
+	<image:title>Infeccion</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.schaefferpostcreative.com/img/Una%20great%20movie.jpg</image:loc>
+	<image:title>Paraíso Perdido</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.schaefferpostcreative.com/img/Una%20great%20movie.webp</image:loc>
+	<image:title>Paraíso Perdido</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.schaefferpostcreative.com/img/Beba.jpg</image:loc>
+	<image:title>Jinetes del Tiempo</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.schaefferpostcreative.com/img/Beba.webp</image:loc>
+	<image:title>Jinetes del Tiempo</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.schaefferpostcreative.com/img/Hermanos%20siblings.jpg</image:loc>
+	<image:title>Sabina Sombra</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.schaefferpostcreative.com/img/Hermanos%20siblings.webp</image:loc>
+	<image:title>Sabina Sombra</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.schaefferpostcreative.com/img/Beginning.jpg</image:loc>
+	<image:title>Fruit of Their Labor</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.schaefferpostcreative.com/img/Beginning.webp</image:loc>
+	<image:title>Fruit of Their Labor</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.schaefferpostcreative.com/img/What%20we%20leave%20behind.jpg</image:loc>
+	<image:title>Tiempos Futuros</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.schaefferpostcreative.com/img/What%20we%20leave%20behind.webp</image:loc>
+	<image:title>Tiempos Futuros</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.schaefferpostcreative.com/img/JEZZABEL.png</image:loc>
+	<image:title>Donde Duermen Los Pájaros</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.schaefferpostcreative.com/img/JEZZABEL.webp</image:loc>
+	<image:title>Donde Duermen Los Pájaros</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.schaefferpostcreative.com/img/El%20hoy%20en%20la%20cerca.jpg</image:loc>
+	<image:title>Tigre Tigre</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.schaefferpostcreative.com/img/El%20hoy%20en%20la%20cerca.webp</image:loc>
+	<image:title>Tigre Tigre</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.schaefferpostcreative.com/img/Robe%20of%20gems.jpg</image:loc>
+	<image:title>A Love Song</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.schaefferpostcreative.com/img/Robe%20of%20gems.webp</image:loc>
+	<image:title>A Love Song</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.schaefferpostcreative.com/img/our%20time.jpg</image:loc>
+	<image:title>Hermanos / Siblings</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.schaefferpostcreative.com/img/our%20time.webp</image:loc>
+	<image:title>Hermanos / Siblings</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.schaefferpostcreative.com/img/INFECCION%20POSTER%20COMP.jpg</image:loc>
+	<image:title>Una Great Movie</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.schaefferpostcreative.com/img/INFECCION%20POSTER%20COMP.webp</image:loc>
+	<image:title>Una Great Movie</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.schaefferpostcreative.com/img/cancion_que_quema-272442424-large.jpg</image:loc>
+	<image:title>Jezabel</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.schaefferpostcreative.com/img/cancion_que_quema-272442424-large.webp</image:loc>
+	<image:title>Jezabel</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.schaefferpostcreative.com/img/</image:loc>
 	<image:title>Twitter Social Card Image</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>https://picturelock.com.mx/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
-	</image:image>
-</url>
-<url>
-	<loc>https://picturelock.com.mx/home-esp.html</loc>
-	<lastmod>2023-09-27</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/Picture%20Lock_white_logo_only.png</image:loc>
-	<image:title>logo</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/Picture%20Lock_white_logo_only.webp</image:loc>
-	<image:title>logo</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/IMG_20230601_101114.jpg</image:loc>
-	<image:title>ERNIE</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/IMG_20230601_101114.webp</image:loc>
-	<image:title>ERNIE</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/IMG-20230609-WA0006.jpg</image:loc>
-	<image:title>LENIN</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/IMG-20230609-WA0006.webp</image:loc>
-	<image:title>LENIN</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/LOGO_MANOSANTA_W.png</image:loc>
-	<image:title>LOGO_MANOSANTA_W</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/LOGO_MANOSANTA_W.webp</image:loc>
-	<image:title>LOGO_MANOSANTA_W</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/SCHAEFFER%20COLOR.png</image:loc>
-	<image:title>page export</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/SCHAEFFER%20COLOR.webp</image:loc>
-	<image:title>page export</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/JEZZABEL.png</image:loc>
-	<image:title>Infeccion</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/JEZZABEL.webp</image:loc>
-	<image:title>Infeccion</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/3964_mate_cartel.jpeg</image:loc>
-	<image:title>Paraíso Perdido</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/3964_mate_cartel.webp</image:loc>
-	<image:title>Paraíso Perdido</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/INFECCION%20POSTER%20COMP.jpg</image:loc>
-	<image:title>Jinetes del Tiempo</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/INFECCION%20POSTER%20COMP.webp</image:loc>
-	<image:title>Jinetes del Tiempo</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/sabina_sombra-784182382-large.jpeg</image:loc>
-	<image:title>Sabina Sombra</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/sabina_sombra-784182382-large.webp</image:loc>
-	<image:title>Sabina Sombra</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/FRUIT%20OF%20LABOR.jpg</image:loc>
-	<image:title>Fruit of Their Labor</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/FRUIT%20OF%20LABOR.webp</image:loc>
-	<image:title>Fruit of Their Labor</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/DRIVER%20KIDS.jpg</image:loc>
-	<image:title>Tiempos Futuros</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/DRIVER%20KIDS.webp</image:loc>
-	<image:title>Tiempos Futuros</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/Donde%20duermen%20los%20pajaros.jpg</image:loc>
-	<image:title>Donde Duermen Los Pájaros</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/Donde%20duermen%20los%20pajaros.webp</image:loc>
-	<image:title>Donde Duermen Los Pájaros</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/Tigre.jpg</image:loc>
-	<image:title>Tigre Tigre</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/Tigre.webp</image:loc>
-	<image:title>Tigre Tigre</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/A%20love%20song.jpg</image:loc>
-	<image:title>A Love Song</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/A%20love%20song.webp</image:loc>
-	<image:title>A Love Song</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/Hermanos%20siblings.jpg</image:loc>
-	<image:title>Hermanos / Siblings</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/Hermanos%20siblings.webp</image:loc>
-	<image:title>Hermanos / Siblings</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/Una%20great%20movie.jpg</image:loc>
-	<image:title>Una Great Movie</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/Una%20great%20movie.webp</image:loc>
-	<image:title>Una Great Movie</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/Tiempos%20futuros.jpg</image:loc>
-	<image:title>Jezabel</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/Tiempos%20futuros.webp</image:loc>
-	<image:title>Jezabel</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/</image:loc>
-	<image:title>Facebook Social Card Image</image:title>
-	</image:image>
-</url>
-<url>
-	<loc>https://picturelock.com.mx/home-fra.html</loc>
-	<lastmod>2023-09-27</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/Picture%20Lock_white_logo_only.png</image:loc>
-	<image:title>logo</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/Picture%20Lock_white_logo_only.webp</image:loc>
-	<image:title>logo</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/IMG_20230601_101114.jpg</image:loc>
-	<image:title>ERNIE</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/IMG_20230601_101114.webp</image:loc>
-	<image:title>ERNIE</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/IMG-20230609-WA0006.jpg</image:loc>
-	<image:title>LENIN</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/IMG-20230609-WA0006.webp</image:loc>
-	<image:title>LENIN</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/LOGO_MANOSANTA_W.png</image:loc>
-	<image:title>LOGO_MANOSANTA_W</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/LOGO_MANOSANTA_W.webp</image:loc>
-	<image:title>LOGO_MANOSANTA_W</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/SCHAEFFER%20COLOR.png</image:loc>
-	<image:title>page export</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/SCHAEFFER%20COLOR.webp</image:loc>
-	<image:title>page export</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/JEZZABEL.png</image:loc>
-	<image:title>Infeccion</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/JEZZABEL.webp</image:loc>
-	<image:title>Infeccion</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/3964_mate_cartel.jpeg</image:loc>
-	<image:title>Paraíso Perdido</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/3964_mate_cartel.webp</image:loc>
-	<image:title>Paraíso Perdido</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/INFECCION%20POSTER%20COMP.jpg</image:loc>
-	<image:title>Jinetes del Tiempo</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/INFECCION%20POSTER%20COMP.webp</image:loc>
-	<image:title>Jinetes del Tiempo</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/sabina_sombra-784182382-large.jpeg</image:loc>
-	<image:title>Sabina Sombra</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/sabina_sombra-784182382-large.webp</image:loc>
-	<image:title>Sabina Sombra</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/FRUIT%20OF%20LABOR.jpg</image:loc>
-	<image:title>Fruit of Their Labor</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/FRUIT%20OF%20LABOR.webp</image:loc>
-	<image:title>Fruit of Their Labor</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/DRIVER%20KIDS.jpg</image:loc>
-	<image:title>Tiempos Futuros</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/DRIVER%20KIDS.webp</image:loc>
-	<image:title>Tiempos Futuros</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/Donde%20duermen%20los%20pajaros.jpg</image:loc>
-	<image:title>Donde Duermen Los Pájaros</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/Donde%20duermen%20los%20pajaros.webp</image:loc>
-	<image:title>Donde Duermen Los Pájaros</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/Tigre.jpg</image:loc>
-	<image:title>Tigre Tigre</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/Tigre.webp</image:loc>
-	<image:title>Tigre Tigre</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/A%20love%20song.jpg</image:loc>
-	<image:title>A Love Song</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/A%20love%20song.webp</image:loc>
-	<image:title>A Love Song</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/Hermanos%20siblings.jpg</image:loc>
-	<image:title>Hermanos / Siblings</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/Hermanos%20siblings.webp</image:loc>
-	<image:title>Hermanos / Siblings</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/Una%20great%20movie.jpg</image:loc>
-	<image:title>Una Great Movie</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/Una%20great%20movie.webp</image:loc>
-	<image:title>Una Great Movie</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/Tiempos%20futuros.jpg</image:loc>
-	<image:title>Jezabel</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/Tiempos%20futuros.webp</image:loc>
-	<image:title>Jezabel</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/</image:loc>
-	<image:title>Twitter Social Card Image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://picturelock.com.mx/img/</image:loc>
+	<image:loc>https://www.schaefferpostcreative.com/img/</image:loc>
 	<image:title>Facebook Social Card Image</image:title>
 	</image:image>
 </url>

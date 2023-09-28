@@ -1,5 +1,5 @@
 /*-----------------------------------------------------------------------------------
-	PICTURELOCK
+	Schaeffer Post Creative
 	About: PICTURELOCK official website.
 	Author: Lucas Sylleros
 	Version: 1.0
@@ -8,7 +8,7 @@
 body{
 	margin:0;
 	padding:0;
-    background:#000000;
+    background:#F7F4F4;
     overflow-x:hidden;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -169,19 +169,6 @@ a:hover{text-decoration: none; cursor:pointer;}
 }
 
 
-/* Background Styles */
-
-.bg-center,.bg-l-edge,.bg-r-edge,.bg-t-edge,.bg-b-edge,.bg-tl-edge,.bg-bl-edge,.bg-tr-edge,.bg-br-edge,.bg-repeat{
-	-webkit-background-size: auto!important;
-	-moz-background-size: auto!important;
-	-o-background-size: auto!important;
-	background-size: auto!important;
-}
-.bg-center{
-	-webkit-background-size: auto;
-}
-
-
 /* Background Textures */
 
 .bloc-bg-texture::before{
@@ -197,22 +184,12 @@ a:hover{text-decoration: none; cursor:pointer;}
 	background: url("img/texture-paper.png");
 	background-size: 280px 280px;
 }
-.texture-fabric::before{
-	background: url("img/texture-fabric.png");
-}
 .texture-geometry-shapes::before{
 	background: url("img/texture-geometry-shapes.png");
 	background-size: 280px 280px;
 }
-.texture-geometry-shapes-2::before{
-	background: url("img/texture-geometry-shapes-2.png");
-	background-size: 200px 200px;
-}
 .texture-darken::before{
 	background: rgba(0,0,0,0.5);
-}
-.texture-darken-strong::before{
-	background: rgba(0,0,0,0.8);
 }
 
 
@@ -425,18 +402,6 @@ button{
 	text-shadow:0 1px 0 rgba(0,0,1,.1);
 	box-shadow: 0 1px 3px rgba(0,0,1,.25), inset 0 1px 0 0 rgba(255,255,255,.15);
 }
-.btn-wire{
-	background:transparent!important;
-	border:2px solid transparent;
-}
-.btn-wire:hover{
-	background:transparent!important;
-	border:2px solid transparent;
-}
-.btn-xl{
-	padding: 16px 40px;
-	font-size: 28px;
-}
 
 /* = Icons
 -------------------------------------------------------------- */
@@ -452,11 +417,6 @@ button{
 	border-radius:34px;
 }
 
-/* = Text & Icon Styles
--------------------------------------------------------------- */
-.sm-shadow{
-	text-shadow:0 1px 2px rgba(0,0,0,.3);
-}
 
 
 .card-sq, .card-sq .card-header, .card-sq .card-footer{
@@ -922,6 +882,8 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	
 	--swatch-var-7514:#01A459;
 	
+	--swatch-var-2940:#F9F9F9;
+	
 }
 
 
@@ -942,14 +904,8 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .bgc-1165{
 	background-color:var(--swatch-var-1165);
 }
-.bgc-6728{
-	background-color:var(--swatch-var-6728);
-}
-.bgc-5563{
-	background-color:var(--swatch-var-5563);
-}
-.bgc-3409{
-	background-color:var(--swatch-var-3409);
+.bgc-2940{
+	background-color:var(--swatch-var-2940);
 }
 .bgc-2869{
 	background-color:var(--swatch-var-2869);
@@ -975,16 +931,6 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .tc-5193{
 	color:var(--swatch-var-5193)!important;
 }
-.tc-2055{
-	color:var(--swatch-var-2055)!important;
-}
-
-/* Button colour styles */
-
-.wire-btn-c-3648{
-	color:var(--swatch-var-3648)!important;
-	border-color:var(--swatch-var-3648)!important;
-}
 
 /* Link colour styles */
 
@@ -1000,12 +946,6 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .ltc-1165:hover{
 	color:#000000!important;
 }
-.ltc-6728{
-	color:var(--swatch-var-6728)!important;
-}
-.ltc-6728:hover{
-	color:#CCCCCC!important;
-}
 
 /* Icon colour styles */
 
@@ -1016,20 +956,6 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 
 /* Bloc image backgrounds */
 
-.bg-Toma-20de-20panel-20de-20control-20y-20sonido{
-	background-image:url("img/Toma%20de%20panel%20de%20control%20y%20sonido.jpg");
-	background-image: -webkit-image-set(url("img/Toma%20de%20panel%20de%20control%20y%20sonido.webp") 1x,
-url("img/Toma%20de%20panel%20de%20control%20y%20sonido.webp") 2x);background-image: image-set(url("img/Toma%20de%20panel%20de%20control%20y%20sonido.jpg") 1x,
-url("img/Toma%20de%20panel%20de%20control%20y%20sonido.jpg") 2x,url("img/Toma%20de%20panel%20de%20control%20y%20sonido.webp") 1x,
-url("img/Toma%20de%20panel%20de%20control%20y%20sonido.webp") 2x);
-}
-.bg-Picture-20Lock-white-logo-only{
-	background-image:url("img/Picture%20Lock_white_logo_only.png");
-	background-image: -webkit-image-set(url("img/Picture%20Lock_white_logo_only.webp") 1x,
-url("img/Picture%20Lock_white_logo_only.webp") 2x);background-image: image-set(url("img/Picture%20Lock_white_logo_only.png") 1x,
-url("img/Picture%20Lock_white_logo_only.png") 2x,url("img/Picture%20Lock_white_logo_only.webp") 1x,
-url("img/Picture%20Lock_white_logo_only.webp") 2x);
-}
 .bg-IMG-20230125-194433-01EDIT{
 	background-image:url("img/IMG_20230125_194433-01EDIT.jpg");
 	background-image: -webkit-image-set(url("img/IMG_20230125_194433-01EDIT.webp") 1x,
