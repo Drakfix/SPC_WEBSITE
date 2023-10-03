@@ -1,6 +1,6 @@
 /*-----------------------------------------------------------------------------------
 	Schaeffer Post Creative
-	About: PICTURELOCK official website.
+	About: Schaeffer Post Creative official website.
 	Author: Lucas Sylleros
 	Version: 1.0
 	Built with Blocs
@@ -169,6 +169,19 @@ a:hover{text-decoration: none; cursor:pointer;}
 }
 
 
+/* Background Styles */
+
+.bg-center,.bg-l-edge,.bg-r-edge,.bg-t-edge,.bg-b-edge,.bg-tl-edge,.bg-bl-edge,.bg-tr-edge,.bg-br-edge,.bg-repeat{
+	-webkit-background-size: auto!important;
+	-moz-background-size: auto!important;
+	-o-background-size: auto!important;
+	background-size: auto!important;
+}
+.bg-center{
+	-webkit-background-size: auto;
+}
+
+
 /* Background Textures */
 
 .bloc-bg-texture::before{
@@ -184,9 +197,9 @@ a:hover{text-decoration: none; cursor:pointer;}
 	background: url("img/texture-paper.png");
 	background-size: 280px 280px;
 }
-.texture-geometry-shapes::before{
-	background: url("img/texture-geometry-shapes.png");
-	background-size: 280px 280px;
+.texture-geometry-shapes-2::before{
+	background: url("img/texture-geometry-shapes-2.png");
+	background-size: 200px 200px;
 }
 .texture-darken::before{
 	background: rgba(0,0,0,0.5);
@@ -882,15 +895,13 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	
 	--swatch-var-7514:#01A459;
 	
-	--swatch-var-2940:#F9F9F9;
-	
 }
 
 
 /* Background colour styles */
 
-.bgc-2941{
-	background-color:var(--swatch-var-2941);
+.bgc-6728{
+	background-color:var(--swatch-var-6728);
 }
 .bgc-5193{
 	background-color:var(--swatch-var-5193);
@@ -903,9 +914,6 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .bgc-1165{
 	background-color:var(--swatch-var-1165);
-}
-.bgc-2940{
-	background-color:var(--swatch-var-2940);
 }
 .bgc-2869{
 	background-color:var(--swatch-var-2869);
@@ -963,19 +971,19 @@ url("img/IMG_20230125_194433-01EDIT.webp") 2x);background-image: image-set(url("
 url("img/IMG_20230125_194433-01EDIT.jpg") 2x,url("img/IMG_20230125_194433-01EDIT.webp") 1x,
 url("img/IMG_20230125_194433-01EDIT.webp") 2x);
 }
-.bg-SC-LOGO-S{
-	background-image:url("img/SC_LOGO_S.png");
-	background-image: -webkit-image-set(url("img/SC_LOGO_S.webp") 1x,
-url("img/SC_LOGO_S.webp") 2x);background-image: image-set(url("img/SC_LOGO_S.png") 1x,
-url("img/SC_LOGO_S.png") 2x,url("img/SC_LOGO_S.webp") 1x,
-url("img/SC_LOGO_S.webp") 2x);
-}
 .bg-IMG-20230811-085229-LR{
 	background-image:url("img/IMG_20230811_085229_LR.jpg");
 	background-image: -webkit-image-set(url("img/IMG_20230811_085229_LR.webp") 1x,
 url("img/IMG_20230811_085229_LR.webp") 2x);background-image: image-set(url("img/IMG_20230811_085229_LR.jpg") 1x,
 url("img/IMG_20230811_085229_LR.jpg") 2x,url("img/IMG_20230811_085229_LR.webp") 1x,
 url("img/IMG_20230811_085229_LR.webp") 2x);
+}
+.bg-IMG-20231003-WA0017{
+	background-image:url("img/IMG-20231003-WA0017.jpg");
+	background-image: -webkit-image-set(url("img/IMG-20231003-WA0017.webp") 1x,
+url("img/IMG-20231003-WA0017.webp") 2x);background-image: image-set(url("img/IMG-20231003-WA0017.jpg") 1x,
+url("img/IMG-20231003-WA0017.jpg") 2x,url("img/IMG-20231003-WA0017.webp") 1x,
+url("img/IMG-20231003-WA0017.webp") 2x);
 }
 
 /* = Custom Bric Data
