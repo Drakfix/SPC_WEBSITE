@@ -694,7 +694,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	fill:transparent;
 }
 .bloc-divider-t-fill{
-	fill:var(--swatch-var-2941);
+	fill:var(--swatch-var-6728);
 }
 .list-style{
 	width:88.33%;
@@ -854,6 +854,19 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .bloc-divider-t-contact-fill{
 	fill:#F4F4F4;
 }
+.img-icon-only-style{
+	height:500px;
+	width:500px;
+}
+.feature-col-mt{
+	margin-top:29px;
+}
+.hero-first-col-mb{
+	margin-bottom:30px;
+}
+.h1-style{
+	font-size:85px;
+}
 
 /* = Colour
 -------------------------------------------------------------- */
@@ -915,9 +928,6 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .bgc-1165{
 	background-color:var(--swatch-var-1165);
 }
-.bgc-2869{
-	background-color:var(--swatch-var-2869);
-}
 
 /* Text colour styles */
 
@@ -938,6 +948,9 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .tc-5193{
 	color:var(--swatch-var-5193)!important;
+}
+.tc-2869{
+	color:var(--swatch-var-2869)!important;
 }
 
 /* Link colour styles */
